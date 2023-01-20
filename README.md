@@ -1,14 +1,17 @@
-# Olá me chamo Lucas Araujo, atualmente possuo 21 anos 👋
+## Olá!
+### Me chamo Lucas Carneiro de Araújo, tenho 21 anos e estou começando minha carreira dentro da área de desenvolvimento web, com foco em Front End.
+Venho estudando há 8 meses e sinto a cada projeto concluído que a profissão de desenvolvedor é onde posso demonstrar todo meu potencial e paixão pela área.
+Ainda estou em fase de expansão, buscando cada vez mais me aprimorar, aprender novas tecnologias e metodologias. Sempre gostei de desafios e estou aberto a novas experiências.
 
-## 📚No Momento Estou Estudando Sobre:  
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+### :mortar_board:No Momento Estou Estudando Sobre:  
+<img src="https://img.shields.io/badge/-REACT-informational?style=for-the-badge" alt="REACT" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/-NODE.JS-success?style=for-the-badge" alt="NODE.JS" /> <img src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge" alt="TYPESCRIPT" /> <img src="https://img.shields.io/badge/-SASS-ff69b4?style=for-the-badge" alt="SASS" /> <img src="https://img.shields.io/badge/-JEST-blueviolet?style=for-the-badge" alt="Jest" />
 
-<div align="center">
-  <a href="https://github.com/LucasA0">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasA0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasA0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+
+### :notebook_with_decorative_cover: Meu Portfolio:
+https://lucas-araujo.netlify.app/
+
+
+
 ## 🔎 Onde me Encontrar:
   
   <div>
