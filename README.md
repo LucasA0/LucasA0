@@ -13,6 +13,8 @@
 ### :notebook_with_decorative_cover: Meu Portfolio:
 https://lucas-araujo.netlify.app/
 
+## OBS: Novo portfolio em processo de finalização, em breve será postado! Este link porderá não estar mais disponível
+
 ---
 
 ## 🔎 Onde me Encontrar:
