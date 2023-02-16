@@ -1,19 +1,25 @@
 # Olá! :smiley:
-#### Me chamo Lucas Carneiro de Araújo, tenho 21 anos e estou começando minha carreira dentro da área de desenvolvimento web, com foco em Front End.
-#### Venho estudando há 8 meses e sinto a cada projeto concluído que a profissão de desenvolvedor é onde posso demonstrar todo meu potencial e paixão pela área.
-#### Ainda estou em fase de expansão, buscando cada vez mais me aprimorar e aprender novas tecnologias e metodologias. Sempre gostei de desafios e estou aberto a novas experiências.
+### Me chamo Lucas Carneiro de Araújo, tenho 21 anos e estou começando minha carreira dentro da área de desenvolvimento web, com foco em Front End.
+Venho estudando há algum tempo e sinto a cada projeto concluído que a profissão de desenvolvedor é onde posso demonstrar todo meu potencial e paixão pela área.
+Ainda estou em fase de expansão, buscando cada vez mais me aprimorar e aprender novas tecnologias e metodologias. Sempre gostei de desafios e estou aberto a novas experiências.
+
+---
+
+#### Possuo sólido conhecimento em: 
+### React | Typescript | JavaScript | Node | Git | Jest | Sass | Bootstrap | Material Ui | REST Api's
+
+#### Tenho alto interesse em:
+### Next.js | TDD | Scrum | Kanban | Design Patterns
 
 ---
 
 ### :mortar_board:No Momento Estou Estudando Sobre:  
-<img src="https://img.shields.io/badge/-REACT-informational?style=for-the-badge" alt="REACT" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/-NODE.JS-success?style=for-the-badge" alt="NODE.JS" /> <img src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge" alt="TYPESCRIPT" /> <img src="https://img.shields.io/badge/-SASS-ff69b4?style=for-the-badge" alt="SASS" /> <img src="https://img.shields.io/badge/-JEST-blueviolet?style=for-the-badge" alt="Jest" />
+<img src="https://img.shields.io/badge/-REACT-informational?style=for-the-badge" alt="REACT" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/-NODE.JS-success?style=for-the-badge" alt="NODE.JS" /> <img src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge" alt="TYPESCRIPT" /> <img src="https://img.shields.io/badge/-SASS-ff69b4?style=for-the-badge" alt="SASS" /> <img src="https://img.shields.io/badge/-JEST-blueviolet?style=for-the-badge" alt="Jest" /> <img src="https://img.shields.io/badge/-Next.js-orange?style=for-the-badge" alt="Jest" />
 
 ---
 
-### :notebook_with_decorative_cover: Meu Portfolio:
-https://lucas-araujo.netlify.app/
-
-## OBS: Novo portfolio em processo de desenvolvimento, em breve será postado!
+#### :notebook_with_decorative_cover: Meu Portfolio:
+### https://lucas-araujo.netlify.app/
 
 ---
 
