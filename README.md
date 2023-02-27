@@ -1,6 +1,6 @@
 # Olá! :smiley:
 ### Me chamo Lucas Carneiro de Araújo, tenho 21 anos e estou começando minha carreira dentro da área de desenvolvimento web, com foco em Front End.
-Venho estudando há algum tempo e sinto a cada projeto concluído que a profissão de desenvolvedor é onde posso demonstrar todo meu potencial e paixão pela área.
+Venho estudando desde o inicio de 2022 e sinto a cada projeto concluído que a profissão de desenvolvedor é onde posso demonstrar todo meu potencial e paixão pela área.
 Ainda estou em fase de expansão, buscando cada vez mais me aprimorar e aprender novas tecnologias e metodologias. Sempre gostei de desafios e estou aberto a novas experiências.
 
 ---
